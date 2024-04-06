@@ -14,6 +14,7 @@ libpython3-dev qemu-utils rsync scons squashfs-tools subversion swig texinfo ugl
 需要添加UA2F模块和RKP-IPID模块
 - [https://github.com/Zxilly/UA2F](https://github.com/Zxilly/UA2F)
 - [https://github.com/CHN-beta/rkp-ipid](https://github.com/CHN-beta/rkp-ipid)
+
 命令行如下
 ```
 cd lede
